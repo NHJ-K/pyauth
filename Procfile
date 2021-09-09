@@ -1,1 +1,1 @@
-web: gunicorn pyauth.wsgi
+web: gunicorn pauth.wsgi
